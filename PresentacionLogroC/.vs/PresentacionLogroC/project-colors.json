@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7a2b121-a566-40e2-883e-d25d4aefff4e": {
+      "ProjectGuid": "a7a2b121-a566-40e2-883e-d25d4aefff4e",
+      "DisplayName": "PresentacionLogroC",
+      "ColorIndex": 0
+    },
+    "2202fe10-dbbf-465b-a818-e3d9d4cba6b3": {
+      "ProjectGuid": "2202fe10-dbbf-465b-a818-e3d9d4cba6b3",
+      "DisplayName": "LogicaNegocioLogroC",
+      "ColorIndex": 1
+    },
+    "cf049251-4772-4b2c-ab1c-d68398db7347": {
+      "ProjectGuid": "cf049251-4772-4b2c-ab1c-d68398db7347",
+      "DisplayName": "AccesoDatosLogroC",
+      "ColorIndex": 2
+    },
+    "094d9412-cd81-49ae-93d2-661fe0130e60": {
+      "ProjectGuid": "094d9412-cd81-49ae-93d2-661fe0130e60",
+      "DisplayName": "AccesoDatosLogroC",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

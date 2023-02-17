@@ -1,0 +1,13 @@
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\bin\Debug\LogicaNegocioLogroC.dll
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\bin\Debug\LogicaNegocioLogroC.pdb
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\bin\Debug\AccesoDatosLogroC.dll
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\bin\Debug\EntityFramework.dll
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\bin\Debug\AccesoDatosLogroC.pdb
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\bin\Debug\AccesoDatosLogroC.dll.config
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\bin\Debug\EntityFramework.xml
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\obj\Debug\LogicaNegocioLogroC.csproj.AssemblyReference.cache
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\obj\Debug\LogicaNegocioLogroC.csproj.CoreCompileInputs.cache
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\obj\Debug\LogicaNegocioLogroC.csproj.CopyComplete
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\obj\Debug\LogicaNegocioLogroC.dll
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\obj\Debug\LogicaNegocioLogroC.pdb
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\LogicaNegocioLogroC\bin\Debug\LogicaNegocioLogroC.dll.config

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ACADEMICAModelStoreContainer" CdmEntityContainer="ACADEMICAEntities">
+    <FunctionImportMapping FunctionImportName="eliminarAlumno" FunctionName="ACADEMICAModel.Store.eliminarAlumno" />
+    <FunctionImportMapping FunctionImportName="ingresarAlumno" FunctionName="ACADEMICAModel.Store.ingresarAlumno" />
+    <FunctionImportMapping FunctionImportName="ingresarMatricula" FunctionName="ACADEMICAModel.Store.ingresarMatricula" />
+    <FunctionImportMapping FunctionImportName="modificarAlumno" FunctionName="ACADEMICAModel.Store.modificarAlumno" />
+    <FunctionImportMapping FunctionImportName="obtenerAlumno" FunctionName="ACADEMICAModel.Store.obtenerAlumno">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ACADEMICAModel.obtenerAlumno_Result">
+          <ScalarProperty Name="IdAlumno" ColumnName="IdAlumno" />
+          <ScalarProperty Name="DNI" ColumnName="DNI" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="fechaNacimiento" ColumnName="fechaNacimiento" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="obtenerAsignatura" FunctionName="ACADEMICAModel.Store.obtenerAsignatura">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ACADEMICAModel.obtenerAsignatura_Result">
+          <ScalarProperty Name="IdAsignatura" ColumnName="IdAsignatura" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="IdSemestre" ColumnName="IdSemestre" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="obtenerMatricula" FunctionName="ACADEMICAModel.Store.obtenerMatricula">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ACADEMICAModel.obtenerMatricula_Result">
+          <ScalarProperty Name="IdMatricula" ColumnName="IdMatricula" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Periodo" ColumnName="Periodo" />
+          <ScalarProperty Name="IdAlumno" ColumnName="IdAlumno" />
+          <ScalarProperty Name="IdSemestre" ColumnName="IdSemestre" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="obtenerSemestre" FunctionName="ACADEMICAModel.Store.obtenerSemestre">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ACADEMICAModel.obtenerSemestre_Result">
+          <ScalarProperty Name="IdSemestre" ColumnName="IdSemestre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,10 @@
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\AccesoDatosLogroC\bin\Debug\AccesoDatosLogroC.dll.config
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\AccesoDatosLogroC\bin\Debug\AccesoDatosLogroC.dll
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\AccesoDatosLogroC\bin\Debug\AccesoDatosLogroC.pdb
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\AccesoDatosLogroC\bin\Debug\EntityFramework.dll
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\AccesoDatosLogroC\bin\Debug\EntityFramework.xml
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\AccesoDatosLogroC\obj\Debug\AccesoDatosLogroC.csproj.AssemblyReference.cache
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\AccesoDatosLogroC\obj\Debug\AccesoDatosLogroC.csproj.CoreCompileInputs.cache
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\AccesoDatosLogroC\obj\Debug\AccesoDatosLogroC.csproj.CopyComplete
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\AccesoDatosLogroC\obj\Debug\AccesoDatosLogroC.dll
+C:\Users\zambr\Desktop\Logro C - Desarrollo de Software - Desarrollo de ejercicios\AccesoDatosLogroC\obj\Debug\AccesoDatosLogroC.pdb
